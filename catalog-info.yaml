@@ -4,6 +4,10 @@ metadata:
   name: backstage-tutorial
   annotations:
     github.com/project-slug: quveex/backstage-tutorial
+  links:
+    - url: https://github.com
+      title: Dashboard
+      icon:dashboard
 spec:
   type: other
   lifecycle: unknown
