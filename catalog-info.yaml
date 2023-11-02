@@ -5,8 +5,8 @@ metadata:
   annotations:
     github.com/project-slug: quveex/backstage-tutorial
   links:
-    - url: https://github.com
-      title: My Dashboard
+    - url: https://github.com/quveex/backstage-tutorial
+      title: Repository
       icon: dashboard
 spec:
   type: other
